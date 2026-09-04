@@ -76,6 +76,7 @@ The Power BI dashboard includes:
 
 ## Author
 
-Sakshee Kanawade —  linkedin.com/in/sakshee-kanawade-2b3aba416
+Sakshee Kanawade —  [linkedin.com/in/sakshee-kanawade-2b3aba416](https://www.linkedin.com/in/sakshee-kanawade-2b3aba416/)
+
 Email: saksheekanawade@gmail.com
 
